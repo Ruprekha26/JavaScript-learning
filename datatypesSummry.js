@@ -25,8 +25,8 @@ const Movies = ["Vivaah", "Hum sath sath hain", "Hum apke hain kon"];
 
 //Object are represent in key-value pair
 let obj ={
-    name = "Ruprekha",
-    age = 20,
+    name : "Ruprekha",
+    age : 20,
 }
 
 //function
