@@ -8,15 +8,15 @@ let age = 21 //number
 let isLoggedIn = true //boolean
 
 // Primitive datatype :-
-//numbers has region -> 2 to the power 53
+//numbers has region -> 2 to the power 53(2^53)
 //bigint - not used usually, used in big website like trading, stockmarket, facebook
 //string - " "
 //boolean - true or false
 //null - standalone value( representation of empty value)
-//undefined - 
+//undefined - used when no value is assign( allocated)
 //symbol - used for uniquness
 
-//object
+//object - key value pair
 
 console.log(typeof "star")
 console.log(typeof age);
